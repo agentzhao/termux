@@ -2,6 +2,7 @@
 ### Before doing anything after fresh install, otherwise apt and pkg won't even work
 ```
 pkg update
+termux-setup-storage
 ```
 ```
 pkg install git
